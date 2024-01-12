@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from simple_g2p.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "simple_g2p"
